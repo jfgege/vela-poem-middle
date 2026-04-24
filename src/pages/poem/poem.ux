@@ -22,7 +22,7 @@
 
 <script>
   import router from "@system.router"
-  import app from "@system.app"
+  // import app from "@system.app"
 
   export default {
     // 页面级组件的数据模型，影响传入数据的覆盖机制：private内定义的属性不允许被覆盖
@@ -44,7 +44,7 @@
         this.people = "王湾"
         this.poem =
           "客路青山外，行舟绿水前。\n\n潮平两岸阔，风正一帆悬。\n\n海日生残夜，江春入旧年。\n\n乡书何处达？归雁洛阳边。"
-      } else if (this.text === "天净沙·秋思") {
+      } else if (this.text === "天净沙・秋思") {
         this.people = "马致远"
         this.poem =
           "枯藤老树昏鸦，\n\n小桥流水人家，\n\n古道西风瘦马。\n\n夕阳西下，\n\n断肠人在天涯。"
