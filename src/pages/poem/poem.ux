@@ -44,7 +44,7 @@ export default {
       this.people = "王湾"
       this.poem =
         "客路青山外，行舟绿水前。\n\n潮平两岸阔，风正一帆悬。\n\n海日生残夜，江春入旧年。\n\n乡书何处达？归雁洛阳边。"
-    } else if (this.text === "天净沙·秋思") {
+    } else if (this.text === "天净沙・秋思") {
       this.people = "马致远"
       this.poem =
         "枯藤老树昏鸦，\n\n小桥流水人家，\n\n古道西风瘦马。\n\n夕阳西下，\n\n断肠人在天涯。"
@@ -472,9 +472,9 @@ export default {
       this.poem =
         "一轮秋影转金波，飞镜又重磨。\n\n把酒问姮娥：被白发、欺人奈何？\n\n乘风好去，长空万里，直下看山河。\n\n斫去桂婆娑，人道是、清光更多。"
     } else if (this.text === "浣溪沙") {
-      this.people = "纳兰性德"
+      this.people = "晏殊"
       this.poem =
-        "身向云山那畔行，北风吹断马嘶声，深秋远塞若为情！\n\n一抹晚烟荒戍垒，半竿斜日旧关城。古今幽恨几时平！"
+        "一曲新词酒一杯，去年天气旧亭台。夕阳西下几时回？ \n\n无可奈何花落去，似曾相识燕归来。小园香径独徘徊。"
     } else if (this.text === "南安军") {
       this.people = "文天祥"
       this.poem =
