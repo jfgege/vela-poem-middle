@@ -6,6 +6,11 @@
     </div>
     <scroll class="column box" scroll-y="true" bounces="true">
       <div class="header column center">
+        <text style="margin-top:20px;text-align:center" class="b">二改作者：</text>
+        <text style="text-align:center" class="b">米坛社区@JIFENG ID：232075</text>
+        <text style="margin-bottom:20px;text-align:center" class="b">@ziqianou</text>
+        <text style="margin-bottom:20px;text-align:center" class="b">本应用Github仓库：https://github.com/jfgege/vela-poem-middle/</text>
+        <text style="margin-bottom:20px;text-align:center" class="b">注：本页面所有内容均为原作者Dreamqiu编写，未经任何修改（除了以上文本）</text>
         <text class="b">简要介绍</text>
       </div>
 
